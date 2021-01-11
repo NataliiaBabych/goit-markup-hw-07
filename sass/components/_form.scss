@@ -12,7 +12,7 @@
 
 .sign-title {
   display: block;
-  font-family: $font-roboto;
+  font-family: $primary-font;
 
   @include text-style($background-color-white, 700, 14px, 0.03em, 1.14, left);
   font-style: normal;

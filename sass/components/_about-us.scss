@@ -30,7 +30,8 @@
   padding-top: 27px;
   padding-bottom: 27px;
 
-  font-family: $font-roboto;
+  font-family: $primary-font;
+
   @include text-style(
     $background-color-white,
     bold,
