@@ -5,7 +5,7 @@
 }
 .logo {
   text-decoration: none;
-  font-family: raleway, sans-serif;
+  font-family: $logo-font;
   @include text-style($hover-color, 700, 26px, 0.03em, 1.19, left);
 }
 
